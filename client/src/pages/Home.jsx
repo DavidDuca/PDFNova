@@ -80,6 +80,7 @@ export default function Home() {
             </Link>
             <Link
               to="/about"
+              aria-label="Learn more about PDFNova and our tools"
               className="inline-flex items-center justify-center gap-2 px-7 py-3.5 bg-white text-gray-700 font-semibold rounded-xl border border-surface-200 hover:border-brand-200 hover:text-brand-600 transition-all duration-200"
             >
               Learn More
