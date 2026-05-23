@@ -2,9 +2,8 @@ import { useState } from 'react'
 import { Heart, Copy, Check, Smartphone, ShieldCheck, Coffee } from 'lucide-react'
 import toast from 'react-hot-toast'
 
-// 👇 Replace these with your real GCash details
-const GCASH_NAME   = 'DA**D D.'         // Masked name as shown in GCash
-const GCASH_NUMBER = '0917 123 4567'    // Your GCash mobile number
+const GCASH_NAME   = 'M**** B.'
+const GCASH_NUMBER = '0992 160 6172'
 const GCASH_NOTE   = 'Support PDFNova'
 
 export default function Donate() {
