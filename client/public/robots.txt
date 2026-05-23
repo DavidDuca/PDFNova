@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://pdfnova.app/sitemap.xml
+Sitemap: https://usepdfnova.vercel.app/sitemap.xml
